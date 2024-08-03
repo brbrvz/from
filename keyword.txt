@@ -25,3 +25,6 @@ remit
 deposit
 withdrawal
 paysend
+credit union
+statement
+taxact
