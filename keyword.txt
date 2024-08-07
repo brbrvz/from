@@ -31,3 +31,14 @@ taxact
 username
 tax return
 taxes
+VENMO
+AIRBNB
+BOOKING.COM
+AMAZON.COM
+ALLSTATE
+points-mail.com
+Alaska airlines
+marriot bonvoy
+Uber
+Wellsfargo
+delta
